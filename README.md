@@ -12,3 +12,4 @@ FINE is a lightweight, ultra-fast native execution gateway and low-latency inter
 Run the executable to initiate the native execution sequence and benchmark bare-metal latency:
 ```bash
 ./fine
+```
