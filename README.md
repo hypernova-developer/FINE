@@ -23,3 +23,6 @@ FINE bypasses standard virtualization wrappers by binding execution addresses di
 - **Bracket Realization:** Built completely using explicit Allman-style alignment for maximum scannability.
 - **Namespace Realization:** All structures are locked inside the localized `fine` namespace.
 - **Encapsulation Density:** Components maintain atomic state managers, keeping performance overhead at absolute zero.
+
+## Licensing
+- This project is protected under the **GNU GPL v3.0** License. All rights reserved by **hypernova-developer**.
